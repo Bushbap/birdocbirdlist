@@ -1,0 +1,26 @@
+body {
+  margin-top: 50px;
+}
+
+.navbar-brand {
+  padding-left: 50px;
+}
+
+.navbar li {
+  padding-right: 50px;
+}
+
+.navbar {
+  background-color: white;
+}
+
+.container probar {
+  padding-left: 500px ;
+  padding-right: 500px ;
+}
+
+.table {
+  padding-left: 50px ;
+  padding-right: 50px ;
+
+}
